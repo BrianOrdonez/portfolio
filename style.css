@@ -468,7 +468,7 @@ animation: slide 10s linear infinite forwards;
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
-    padding: 25px 35px;
+    padding: 15px 25px;
     text-align: center;
     overflow: hidden;
     transition: all 0.3s ease;
