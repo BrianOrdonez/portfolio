@@ -492,8 +492,8 @@ animation: slide 10s linear infinite forwards;
     margin: 10px 0 7px 0;
 }
 .teams .carousel .card img{
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid crimson;
