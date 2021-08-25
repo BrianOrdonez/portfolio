@@ -561,7 +561,7 @@ animation: slide 10s linear infinite forwards;
 }
 .contact .contact-content .info .sub-title{
     align-items: right;
-    color: rgb(255, 250, 250);
+    color: black;
     text-align: right;
 }
 .contact .right form .fields{
