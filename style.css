@@ -493,9 +493,8 @@ animation: slide 10s linear infinite forwards;
 }
 .teams .carousel .card img{
     height: 400px;
-    width: 400px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 40%;
     border: 5px solid crimson;
     transition: all 0.3s ease;
 }
@@ -504,7 +503,7 @@ animation: slide 10s linear infinite forwards;
 }
 .owl-dots{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .owl-dot{
     height: 13px;
